@@ -1,0 +1,7 @@
+{
+  "name":"vboxusers",
+  "editable":false,
+  "alu":true,
+  "doc":true,
+  "adm":true
+}
