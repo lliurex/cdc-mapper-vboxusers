@@ -1,3 +1,9 @@
+cdc-mapper-vboxusers (0.1.1) jammy; urgency=medium
+
+  * Changed to restart cdc-mapper service after installation or desinstallation
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 21 Nov 2025 13:23:37 +0100
+
 cdc-mapper-vboxusers (0.1) jammy; urgency=medium
 
   * Initial release
